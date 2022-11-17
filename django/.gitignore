@@ -16,3 +16,5 @@ tests/report/
 .DS_Store
 
 env/
+
+db.sqlite3
