@@ -1,6 +1,6 @@
-# NextAuth.js Django provider example
+# NextAuth.js Django Provider Example
 
-The motivation for this project stems from the lack of a complete example of using NextAuth.js with a Django backend using Django Rest Framework and JWT.
+Example of using NextAuth.js with a Django (DRF & JWT) backend.
 
 This repository contains:
 
